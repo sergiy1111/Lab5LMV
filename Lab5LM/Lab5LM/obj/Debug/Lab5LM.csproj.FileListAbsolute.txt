@@ -1,0 +1,16 @@
+C:\Users\home\source\repos\Lab5LM\Lab5LM\bin\Debug\Lab5LM.exe.config
+C:\Users\home\source\repos\Lab5LM\Lab5LM\bin\Debug\Lab5LM.exe
+C:\Users\home\source\repos\Lab5LM\Lab5LM\bin\Debug\Lab5LM.pdb
+C:\Users\home\source\repos\Lab5LM\Lab5LM\obj\Debug\Lab5LM.csproj.AssemblyReference.cache
+C:\Users\home\source\repos\Lab5LM\Lab5LM\obj\Debug\Lab5LM.Form1.resources
+C:\Users\home\source\repos\Lab5LM\Lab5LM\obj\Debug\Lab5LM.Properties.Resources.resources
+C:\Users\home\source\repos\Lab5LM\Lab5LM\obj\Debug\Lab5LM.csproj.GenerateResource.cache
+C:\Users\home\source\repos\Lab5LM\Lab5LM\obj\Debug\Lab5LM.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\Lab5LM\Lab5LM\obj\Debug\Lab5LM.exe
+C:\Users\home\source\repos\Lab5LM\Lab5LM\obj\Debug\Lab5LM.pdb
+C:\Users\home\source\repos\Lab5LM\Lab5LM\obj\Debug\Lab5LM.Form2.resources
+C:\Users\home\source\repos\Lab5LM\Lab5LM\bin\Debug\en-SE\Lab5LM.resources.dll
+C:\Users\home\source\repos\Lab5LM\Lab5LM\obj\Debug\Lab5LM.Language.Lang.resources
+C:\Users\home\source\repos\Lab5LM\Lab5LM\obj\Debug\Lab5LM.Form1.en-SE.resources
+C:\Users\home\source\repos\Lab5LM\Lab5LM\obj\Debug\en-SE\Lab5LM.resources.dll
+C:\Users\home\source\repos\Lab5LM\Lab5LM\obj\Debug\Lab5LM.Language.Lang.en-ES.resources
