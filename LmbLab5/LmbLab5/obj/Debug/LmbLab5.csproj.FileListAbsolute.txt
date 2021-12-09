@@ -1,0 +1,17 @@
+C:\Users\home\source\repos\LmbLab5\LmbLab5\bin\Debug\LmbLab5.exe.config
+C:\Users\home\source\repos\LmbLab5\LmbLab5\bin\Debug\LmbLab5.exe
+C:\Users\home\source\repos\LmbLab5\LmbLab5\bin\Debug\LmbLab5.pdb
+C:\Users\home\source\repos\LmbLab5\LmbLab5\bin\Debug\en-US\LmbLab5.resources.dll
+C:\Users\home\source\repos\LmbLab5\LmbLab5\obj\Debug\LmbLab5.csproj.AssemblyReference.cache
+C:\Users\home\source\repos\LmbLab5\LmbLab5\obj\Debug\LmbLab5.Form1.resources
+C:\Users\home\source\repos\LmbLab5\LmbLab5\obj\Debug\LmbLab5.Form2.resources
+C:\Users\home\source\repos\LmbLab5\LmbLab5\obj\Debug\LmbLab5.Properties.Resources.resources
+C:\Users\home\source\repos\LmbLab5\LmbLab5\obj\Debug\LmbLab5.Form2.en-US.resources
+C:\Users\home\source\repos\LmbLab5\LmbLab5\obj\Debug\LmbLab5.csproj.GenerateResource.cache
+C:\Users\home\source\repos\LmbLab5\LmbLab5\obj\Debug\LmbLab5.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\LmbLab5\LmbLab5\obj\Debug\en-US\LmbLab5.resources.dll
+C:\Users\home\source\repos\LmbLab5\LmbLab5\obj\Debug\LmbLab5.exe
+C:\Users\home\source\repos\LmbLab5\LmbLab5\obj\Debug\LmbLab5.pdb
+C:\Users\home\source\repos\LmbLab5\LmbLab5\obj\Debug\LmbLab5.Res.resources
+C:\Users\home\source\repos\LmbLab5\LmbLab5\obj\Debug\LmbLab5.Res.en-US.resources
+C:\Users\home\source\repos\LmbLab5\LmbLab5\obj\Debug\LmbLab5.Form1.en-US.resources
