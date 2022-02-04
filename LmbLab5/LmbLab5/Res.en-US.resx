@@ -117,10 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Calc" xml:space="preserve">
+    <value>Calculations</value>
+  </data>
+  <data name="Changes" xml:space="preserve">
+    <value>Changes saved. They take effect after the program is restarted.</value>
+  </data>
+  <data name="Changes2" xml:space="preserve">
+    <value>The language will change after restarting the application</value>
+  </data>
   <data name="LangChange?" xml:space="preserve">
     <value>Do you really want to change the language?</value>
   </data>
   <data name="LangSave" xml:space="preserve">
     <value>Preservation of language</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="SavedCalc" xml:space="preserve">
+    <value>Calculations saved to file:</value>
   </data>
 </root>

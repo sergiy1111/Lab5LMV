@@ -37,9 +37,10 @@ namespace LmbLab5.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        public double ValueX {
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string ValueX {
             get {
-                return ((double)(this["ValueX"]));
+                return ((string)(this["ValueX"]));
             }
             set {
                 this["ValueX"] = value;
@@ -55,6 +56,28 @@ namespace LmbLab5.Properties {
             }
             set {
                 this["FormName"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public int X {
+            get {
+                return ((int)(this["X"]));
+            }
+            set {
+                this["X"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public int Y {
+            get {
+                return ((int)(this["Y"]));
+            }
+            set {
+                this["Y"] = value;
             }
         }
     }

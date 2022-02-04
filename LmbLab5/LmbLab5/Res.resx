@@ -117,10 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Calc" xml:space="preserve">
+    <value>Розрахунки</value>
+  </data>
+  <data name="Changes" xml:space="preserve">
+    <value>Зміни збережено. Вони вступають в силу після перезапуску програми.</value>
+  </data>
+  <data name="Changes2" xml:space="preserve">
+    <value>Мова зміниться після перезапуску додатку</value>
+  </data>
   <data name="LangChange?" xml:space="preserve">
     <value>Ви дійсно хочете змінити мову?</value>
   </data>
   <data name="LangSave" xml:space="preserve">
     <value>Збереження мови</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Збереження</value>
+  </data>
+  <data name="SavedCalc" xml:space="preserve">
+    <value>Розрахунки збережено у файл:</value>
   </data>
 </root>

@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace LmbLab5
@@ -20,18 +13,17 @@ namespace LmbLab5
             System.Threading.Thread.CurrentThread.CurrentCulture = System.Globalization.CultureInfo.GetCultureInfo(Properties.Settings.Default.Language);
             }
             InitializeComponent();
-            this.Name = Properties.Settings.Default.FormName;
+            this.Text = Properties.Settings.Default.FormName;
             textBox1.Text = Convert.ToString(Properties.Settings.Default.ValueX);
             textBox2.Text = Convert.ToString(Properties.Settings.Default.FormName);
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show(Res.LangChange_, Res.LangSave, MessageBoxButtons.YesNo) == System.Windows.Forms.DialogResult.Yes)
+            if (MessageBox.Show(Res.LangChange_ + " " +  Res.Changes2, Res.LangSave, MessageBoxButtons.YesNo) == System.Windows.Forms.DialogResult.Yes)
             {
                 Properties.Settings.Default.Language = comboBox1.SelectedValue.ToString();
                 Properties.Settings.Default.Save();
-                this.Refresh();
             }
         }
 
@@ -49,11 +41,11 @@ namespace LmbLab5
             {
                 comboBox1.SelectedValue = Properties.Settings.Default.Language;
             }
+            this.Name = Properties.Settings.Default.FormName;
         }
 
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
-
             char number = e.KeyChar;
             if (!Char.IsDigit(number) && number != 8 && number != 44)
             {
@@ -63,15 +55,18 @@ namespace LmbLab5
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Properties.Settings.Default.ValueX = Convert.ToDouble(textBox1.Text);
+            Properties.Settings.Default.ValueX = textBox1.Text;
             Properties.Settings.Default.Save();
+            MessageBox.Show(Res.Changes, Res.Save);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             Properties.Settings.Default.FormName= textBox2.Text;
             Properties.Settings.Default.Save();
-            this.Name = Convert.ToString(Properties.Settings.Default.FormName);
+            string name = Properties.Settings.Default.FormName;
+            this.Text = name;
+            MessageBox.Show(Res.Changes, Res.Save);
         }
     }
 }

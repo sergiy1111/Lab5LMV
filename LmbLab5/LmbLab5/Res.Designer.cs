@@ -61,6 +61,33 @@ namespace LmbLab5 {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Розрахунки.
+        /// </summary>
+        internal static string Calc {
+            get {
+                return ResourceManager.GetString("Calc", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Зміни збережено. Вони вступають в силу після перезапуску програми..
+        /// </summary>
+        internal static string Changes {
+            get {
+                return ResourceManager.GetString("Changes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Мова зміниться після перезапуску додатку.
+        /// </summary>
+        internal static string Changes2 {
+            get {
+                return ResourceManager.GetString("Changes2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Ви дійсно хочете змінити мову?.
         /// </summary>
         internal static string LangChange_ {
@@ -75,6 +102,24 @@ namespace LmbLab5 {
         internal static string LangSave {
             get {
                 return ResourceManager.GetString("LangSave", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Збереження.
+        /// </summary>
+        internal static string Save {
+            get {
+                return ResourceManager.GetString("Save", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Розрахунки збережено у файл:.
+        /// </summary>
+        internal static string SavedCalc {
+            get {
+                return ResourceManager.GetString("SavedCalc", resourceCulture);
             }
         }
     }
